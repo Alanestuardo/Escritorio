@@ -1,0 +1,9 @@
+.ventana{
+    width: 65rem;
+    height: 35rem;
+    margin-right: 5rem;
+    margin-left: 10rem;
+    background-image: url(https://i.pinimg.com/originals/a4/76/8a/a4768aa5d55a3d2680ed66574cc0119e.jpg);
+   display: flex;
+   flex-direction: column;
+}
